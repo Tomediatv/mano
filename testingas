@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,MGM Movies
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1,STAR Movies
