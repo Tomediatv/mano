@@ -8,7 +8,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
 #EXTINF:-1,MAFA
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.iconfinder.com/data/icons/audio-files-essential-glyph/48/Sed-27-512.png" group-title="PLAYLIST-0" ,ABC News (No-Feed)
+#EXTINF:-1,SUNBURN TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1,B Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
