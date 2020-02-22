@@ -29,3 +29,23 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://live.mawintv2.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,NL | I
 https://live.mawintv2.com/02_HBOHit_720p/chunklist.m3u8
+
+group-title="ÖSTERREICH;MUSIK",KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SCHWEIZ;MUSIK",LFM TV
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w638707571_b3000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN;MUSIK",XITE
+https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Latido Music TV
+https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Fashion TV L'Original
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
