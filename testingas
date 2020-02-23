@@ -12,53 +12,18 @@ https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1,T Tennis
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1,HBO Little
-https://live.mawintv2.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,HBO hits
-https://live.mawintv2.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Fashion TV L'Original
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 1
-http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 1
-http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 2
-https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 2
-http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-name="Hollywood Movies 2" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 3
-http:////aldirect.hls.huya.com//huyalive//30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 3
-http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-name="Hollywood Movies 3" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 3
-http:////aldirect.hls.huya.com//huyalive//28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-name="Hollywood Movies 4" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 4
-https:////aldirect.hls.huya.com//huyalive//30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-name="Hollywood Movies 1" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 4
-http:////aldirect.hls.huya.com//huyalive//30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 5
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-name="Hollywood Movies 5" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 5
-http:////tx.hls.huya.com//huyalive//30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" group-title="Hollywood Movies",24/7 Hollywood Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 9
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2019/02/Top-grossers-of-Hollywood.jpg" group-title="Hollywood Movies",24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 12
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="Hollywood Movies",BestTV UHD
-http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://i.imgur.com/R6F6NEb.png" group-title="Hollywood Movies",BesTV 4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+
