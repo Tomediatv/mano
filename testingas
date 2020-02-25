@@ -22,5 +22,5 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-
+#EXTINF:-1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582612847/ei/D21UXvO7Isj2wQG8s7jwAQ/ip/67.175.52.36/id/w_Ma8oQLmSM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhAJxiN_RfphgKQspQPJN5EppLvsjfv-M5MVHqsOhbQ-XQAiBCFw5YKcIDBkBpifwRlejmf76ouZYBzOU-CkdYNe6gcQ%3D%3D/file/index.m3u8
