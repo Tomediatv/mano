@@ -22,5 +22,42 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582613667/ei/Q3BUXt-SFcOPtQfl1qiICg/ip/67.175.52.36/id/eQHKhg4dBlA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgCiTkJDeLtyIkPwT6aT8cWKxQIJ2NCbFHAHkXBqEbiA4CIHTnKzHIQ2Cud-0LtpIRv3TCAEucpdtTu_3tLNHOsf_G/file/index.m3u8
+
+#EXTINF:-1 tvg-ID="MGM.us" tvg-name="MGM" tvg-logo="https://i.postimg.cc/mDNSSK1d/mgm.png" group-title="MOVIE TV",MGM
+http://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="hd-xzyte" tvg-logo="https://i.postimg.cc/pX4gBwwJ/images-5.jpg" group-title="MOVIE TV",FILM BOX ARTHOUSE
+https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="https://i.postimg.cc/W1jVzN1b/images-15.png" group-title="MOVIE TV",MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC2" tvg-logo="https://i.postimg.cc/SR05PdXN/images-55.jpg" group-title="MOVIE TV",MBC2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 1" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 5" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 5
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 7" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 7
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 8" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 8
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 14" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 14
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 17" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 17
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 18" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 18
+https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES 19" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 19
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="RTM SPORT" tvg-logo="https://i.postimg.cc/PJkwZztx/images-1.jpg" group-title="SPORT TV",RTM SPORT
+https://dl.dropboxusercontent.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
+#EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://i.postimg.cc/MGrPgSPY/images-60.jpg" group-title="SPORT TV",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Sports" tvg-logo="https://i.postimg.cc/Z54Mdjv6/fight-sports-logo-400x300jpg.jpg" group-title="SPORT TV",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-id="REDBULL TV" tvg-logo="https://i.postimg.cc/cHqVH3Yz/images-63.jpg" group-title="SPORT TV",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
