@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Fashion TV L'Original
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies A
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Hollywood Movies B
@@ -35,6 +37,4 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="REDBULL TV" tvg-logo="https://i.postimg.cc/cHqVH3Yz/images-63.jpg" group-title="SPORT TV",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
