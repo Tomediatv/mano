@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,BOZZTV
+http://usb.bozztv.com/ssh101/TBB4/TBB4/index.m3u8
+#EXTINF:-1,BANG
+https://usb.bozztv.com/ssh101/TBB5/TBB5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" group-title="ADMIN" ,TONOMONS
 https://tonosidik3.github.io/VOD/myopening.mp4
