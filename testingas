@@ -38,14 +38,10 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Shot TV
 http://persik.tv/stream/7725/408679/10454.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",Мир +3
-http://sc.id-tv.kz/Mir_36_37.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Мир Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Рен ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",Рен ТВ International
-https://sc.id-tv.kz/RenTV_38_39.m3u8
 #EXTINF:-1 group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Action Sports 4U
@@ -62,8 +58,6 @@ https://djing.com/tv/s-28730-05-avicii.m3u8
 https://djing.com/tv/s-28730-05-hedonist.m3u8
 #EXTINF:-1 group-title="Музыкальные",DJing Wild HD
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
-#EXTINF:-1 group-title="Музыкальные",Deejay TV (IT)
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыкальные",FM Italia TV
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",KISS TV
@@ -128,8 +122,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 group-title="История и Наука",Terra Incognita HD
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="История и Наука",Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Global Star
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 group-title="Мода",World Fashion Россия HD
