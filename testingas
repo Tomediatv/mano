@@ -1,11 +1,5 @@
 #EXTINF:-1 group-title="News",Al Jazeera HD
 http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
-#EXTINF:-1 group-title="News",Al Jazeera EN
-http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 group-title="News",Bloomberg TV HD
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="News",Bloomberg (EN)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:-1 group-title="News",DW TV English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 group-title="News",France 24 (ENG)
@@ -18,22 +12,10 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 group-title="News",RT America
 http://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 group-title="News",RT News HD
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 group-title="News",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 group-title="News",RT US
-https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",AMC
 http://212.121.249.34:8080/amc/index.m3u8
-#EXTINF:-1,TV1000 Action
-http://ott-cdn.ucom.am/s91/index.m3u8
 #EXTINF:-1, Hunt Channel
 http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
-#EXTINF:-1, MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1, TV1000 Action 
-http://213.174.8.7:8000/play/22/index.m3u8
 #EXTINF:-1,HBO
 http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:-1,Star World
@@ -42,16 +24,12 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1,CGTN Русский
 http://live.cgtn.com/1000r/prog_index.m3u8
-EXTINF:0,Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",360°
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",IZ.RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF:-1 group-title="Новости",RT HD
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="Новости",ЛДПР ТВ HD
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Москва 24 HD
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Новости",РЖД ТВ HD
@@ -68,96 +46,46 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Рен ТВ International
 https://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",ТВЦ
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 #EXTINF:-1 group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Sport",Action Sports 4U
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 group-title="Sport",AUTOMOTO TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 group-title="Sport",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="Музыкальные",Atlanta Channel HD
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing HD
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing Animation HD
-http://www.djing.com/tv/animation.m3u8
 #EXTINF:-1 group-title="Музыкальные",DJing Avicii HD
 https://djing.com/tv/s-28730-05-avicii.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing Classic HD
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing DJS HD
-https://www.djing.com/tv/k-27838-05.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing Electro Rock HD
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing French touch HD
-http://www.djing.com/tv/session_french-touch.m3u8
 #EXTINF:-1 group-title="Музыкальные",DJing Hedonist HD
 https://djing.com/tv/s-28730-05-hedonist.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing Karaoke HD
-http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing Summer Vibes HD
-http://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 group-title="Музыкальные",DJing Underground HD
-http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 group-title="Музыкальные",DJing Wild HD
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 #EXTINF:-1 group-title="Музыкальные",Deejay TV (IT)
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Музыкальные",ECKO EXPRES  music
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",FM Italia TV
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",IndieWaveHD
-https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",KISS TV
 http://fms-https1.mediadirect.ro/live3/kiss/chunklist_w1535526573.m3u8
-#EXTINF:-1 group-title="Музыкальные",Life TV
-http://lifetv.bitflip.ee/live/stream1.m3u8
-#EXTINF:-1 group-title="Музыкальные",M20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV
-http://31.177.62.139:8011/play/s28
 #EXTINF:-1 group-title="Музыкальные",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV (Уфа)
+#EXTINF:-1 group-title="Музыкальные",MTV mix
 http://online.mtvmix.ru:18092/ios/live.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Norway
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="Музыкальные",Magic TV
-https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 #EXTINF:-1 group-title="Музыкальные",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Ocko TV
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Музыкальные",Ocko TV Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыкальные",Oxigeno Music TV
-http://vcp1.myplaytv.com:1935/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",POWER HD
 http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 group-title="Музыкальные",Rock TV
-http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",SONG TV Russia
 http://songtvru.ru:8060/med/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",TRACE Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:-1 group-title="Музыкальные",TRACE AYITI
 http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1 group-title="Музыкальные",TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
 #EXTINF:-1 group-title="Музыкальные",TRACE LATINA
 http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 #EXTINF:-1 group-title="Музыкальные",TRACE Mziki
@@ -178,26 +106,18 @@ http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные",Люкс FM UA
-http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",М1
 http://live.m2.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные",М2
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 group-title="Детские",Nick Kids
 http://54.36.109.228/20600/mono.m3u8
-#EXTINF:-1 group-title="Природа и путешествия",CGTN Documentary
-http://live.cgtn.com/200d/prog_index.m3u8
 #EXTINF:-1 group-title="Природа и путешествия",DocuBox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 group-title="Природа и путешествия",Travel Channel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
-#EXTINF:-1 group-title="Природа и путешествия",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="История и Наука",Brics TV
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="История и Наука",Discovery Science HD
@@ -210,14 +130,8 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="История и Наука",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Украинские",Odessa Fashion
-http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Global Star
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 group-title="Мода",World Fashion Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-
-
-
-
 
