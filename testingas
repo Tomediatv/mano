@@ -12,8 +12,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 group-title="News",RT America
 http://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы",AMC
-http://212.121.249.34:8080/amc/index.m3u8
 #EXTINF:-1, Hunt Channel
 http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
 #EXTINF:-1,HBO
@@ -42,8 +40,6 @@ http://persik.tv/stream/7725/408679/10454.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Рен ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Movies",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Action Sports 4U
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 group-title="Sport",AUTOMOTO TV
