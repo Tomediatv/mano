@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
-https://live.lnk.lt/lnk_live/tiesiogiai/chunklist_w1527539174_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTU4MzY3NDg4MyZ0b2tlbmhhc2g9bkhYRkxMTGdtb3RuaWJWbHc1TWRXbzJuZWxfYzA5SnBDY0dlUlFnQnpyQ2gxY3AzZVNZWGowbE1yZGFvNW1uZmk2M25JX0ZsWW84NWpKTjY4M0dVUFE9PQ==.m3u8
-#EXTINF:0 tvg-id="TV3.ie" group-title="LT TV",03 TV3 LT
-https://baltlive.tv3.lt/studija/smil:studija.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",7
 http://spacetv.in/stream/DVB2D6AE8CU/27.m3u8
@@ -26,7 +22,7 @@ http://spacetv.in/stream/DVB2D6AE8CU/92.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/319.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Bridge TV RU
 http://spacetv.in/stream/DVB2D6AE8CU/320.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",BTV
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",04 BTV
 http://spacetv.in/stream/DVB2D6AE8CU/35.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",Cartoon Network
 http://spacetv.in/stream/DVB2D6AE8CU/144.m3u8
@@ -80,9 +76,9 @@ http://spacetv.in/stream/DVB2D6AE8CU/113.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/268.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",ID Discovery HD 
 http://spacetv.in/stream/DVB2D6AE8CU/205.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",LNK
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",02 LNK
 http://spacetv.in/stream/DVB2D6AE8CU/30.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",LRT Televizija
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",01 LRT Televizija
 http://spacetv.in/stream/DVB2D6AE8CU/31.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",M 1
 http://spacetv.in/stream/DVB2D6AE8CU/218.m3u8
@@ -130,7 +126,7 @@ http://spacetv.in/stream/DVB2D6AE8CU/100.m3u8
 http://spacetv.in/stream/DVB2D6AE8CU/123.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",TV XXI (TV21)
 http://spacetv.in/stream/DVB2D6AE8CU/152.m3u8
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",TV3
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",03 TV3
 http://spacetv.in/stream/DVB2D6AE8CU/29.m3u8
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Title N/A" tvg-logo="logo N/A",VH1
 http://spacetv.in/stream/DVB2D6AE8CU/165.m3u8
