@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:0 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
+https://live.lnk.lt/lnk_live/tiesiogiai/chunklist_w1527539174_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTU4MzY3NDg4MyZ0b2tlbmhhc2g9bkhYRkxMTGdtb3RuaWJWbHc1TWRXbzJuZWxfYzA5SnBDY0dlUlFnQnpyQ2gxY3AzZVNZWGowbE1yZGFvNW1uZmk2M25JX0ZsWW84NWpKTjY4M0dVUFE9PQ==.m3u8
+#EXTINF:0 tvg-id="TV3.ie" group-title="LT TV",03 TV3 LT
+https://baltlive.tv3.lt/studija/smil:studija.smil/chunklist_b2500000.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion & LifeStyle 1
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",TraceAFRICA
