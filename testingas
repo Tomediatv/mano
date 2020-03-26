@@ -1,36 +1,19 @@
 #EXTM3U
 
-
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
-
 
 #EXTINF:-1,МИР Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
-#EXTINF:-1,SONG TV Russia [FHD]
-https://songtvru.ru/hd/playlist.m3u8
-
 #EXTINF:-1,112 HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-
-#EXTINF:-1,Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-
-#EXTINF:-1,Ultra HD Cinema
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 
 #EXTINF:-1,Bambarbia TV [HD]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 
 #EXTINF:-1,MTV HD Enland
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
-
-#EXTINF:-1,SONG TV Russia [HD]
-https://songtvru.ru/lhigh/playlist.m3u8
-
-#EXTINF:-1,Правда ТУТ HD (Київ)
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 
 #EXTINF:-1,Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
@@ -74,9 +57,6 @@ http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
 #EXTINF:-1,ННТВ HD
 http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
 
-#EXTINF:-1,ПЯТНИЦА! HD
-http://85.112.114.11:8086/udp/233.170.170.112:58631
-
 #EXTINF:-1,OTV Music
 http://212.26.146.148/hls/otv.m3u8
 
@@ -115,9 +95,6 @@ http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
 
 #EXTINF:-1,Конный Мир
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 #EXTINF:-1,Москва 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
@@ -160,9 +137,6 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
 
 #EXTINF:-1,Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
-
-#EXTINF:-1,Тивиком (Улан-Удэ)
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 
 #EXTINF:-1,Толк ТВ (Барнаул)
 http://5c4d56be6c927.streamlock.net:1935/tolknewstv/livestream/chunklist.m3u8
@@ -382,10 +356,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTGRP:МУЗЫКА
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
-#EXTINF:-1 ,SONG TV FHD Russia
-#EXTGRP:МУЗЫКА
-https://songtvru.ru/hd/playlist.m3u8
-
 #EXTINF:-1 ,Travel HD BG
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
@@ -426,14 +396,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTGRP:МУЗЫКА
 http://rtmp.one.by:1300
 
-#EXTINF:-1 ,Тивиком HD (+5)
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-
 #EXTINF:-1 ,С1 Сургут HD
 https://sitv.ru/hls/stv1024.m3u8
-
-#EXTINF:-1 ,Между.Net HD
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/chunks.m3u8
 
 #EXTINF:-1 ,Миллет HD
 http://live.trkmillet.ru/millet/index.m3u8
