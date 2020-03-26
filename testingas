@@ -457,9 +457,6 @@ https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,V2BEATHD
 http://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
-https://rt-cache1.peers.tv/streaming/animal_planet_hd/16/copy/playlist.m3u8
-
 #EXTINF:-1 ,Диалоги о рыбалке HD
 https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
 
