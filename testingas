@@ -15,9 +15,6 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,MTV HD Enland
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
 
-#EXTINF:-1,Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
 #EXTINF:-1,HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
@@ -35,9 +32,6 @@ http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 
 #EXTINF:-1,Мир HD (Premium)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
-#EXTINF:-1,Brics TV HD
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -217,14 +211,8 @@ http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 #EXTINF:-1,Первый городской (Киров)
 http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
 
-#EXTINF:-1,Московский образовательный ТВ HD
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-
 #EXTINF:-1,Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1,НАШЕ ТВ
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
 
 #EXTINF:-1,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
@@ -277,17 +265,8 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
-#EXTINF:-1,1+1
-http://185.189.184.7:8888/1plus1/index.m3u8?token=test
-
-#EXTINF:-1,2+2
-http://185.189.184.7:8888/2plus2/index.m3u8?token=test
-
 #EXTINF:-1,NRJ Hits
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-
-#EXTINF:-1,1 HD
-https://sc.id-tv.kz/1hd_34_35.m3u8
 
 #EXTINF:0,Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -388,10 +367,6 @@ http://188.35.9.18:16050/udp/238.0.16.1:69000
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 
-#EXTINF:-1 ,Мир 24 HD
-#EXTGRP:НОВОСТИ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
 #EXTINF:-1 ,Первый Музыкальный BY
 #EXTGRP:МУЗЫКА
 http://rtmp.one.by:1300
@@ -440,9 +415,6 @@ http://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 ,Дума ТВ HD
 http://live-dumatv.cdnvideo.ru/dumatv/dumatv/playlist.m3u8
-
-#EXTINF:-1 ,Настоящее Время HD
-http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
@@ -499,7 +471,3 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v
 
 #EXTINF:-1 ,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-
-
-
-
