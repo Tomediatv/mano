@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1,LNK Lithuania
+https://live.lnk.lt/lnk_live/tiesiogiai/chunklist_w206723363_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTU4NTQ0NDQ4NiZ0b2tlbmhhc2g9ZlRXZmFzaENsMWUyUC1DdVAxeUMwbGNXTUtUd0NNZDRPRnpnR0x5eWtYMGs4N1lMejA4Mlp0STRsdl9xMWpZaVUxSTZCc3JCMHpsV1ljRGozQ1M5Ync9PQ==.m3u8
 
 #EXTINF:-1,LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
@@ -136,9 +138,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:16,Fox PS
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:82,H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
@@ -252,9 +251,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",POWER HD
 http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
-
-#EXTINF:-1 group-title="Музыкальные",SONG TV Russia
-http://songtvru.ru:8060/med/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",TRACE Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
