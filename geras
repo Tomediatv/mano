@@ -82,9 +82,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Brandnite
 https://fluxustv.blogspot.com@bit.ly/BrandniteTV?.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC GO TV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Movies",RU TNT International
 http://ott-cdn.ucom.am/s19/04.m3u8
 
@@ -144,12 +141,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-
-#EXTINF:85,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Entertainment",National Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:13,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
@@ -301,9 +292,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",Nick Kids
-http://54.36.109.228/20600/mono.m3u8
-
 #EXTINF:-1 group-title="Природа и путешествия",Travel Channel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
 
@@ -318,9 +306,6 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 
 #EXTINF:-1 group-title="Мода",World Fashion Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,ТНТ4 HD
-http://85.112.114.11:8086/udp/233.170.170.130:58631
 
 #EXTINF:-1,112 HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
@@ -337,17 +322,11 @@ http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
 #EXTINF:-1,Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1,Ocean TV (HD)
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-
 #EXTINF:-1,Мир HD (Premium)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 #EXTINF:-1,Министерство идей HD
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-
-#EXTINF:-1,Música HD
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
 
 #EXTINF:-1,Возрождение TV [FHD]
 http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
@@ -366,9 +345,6 @@ http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
 
 #EXTINF:-1,Архыз 24 HD
 http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
-
-#EXTINF:-1,Астрахань 24 HD
-http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -391,17 +367,11 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Москва 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1,Наше TV
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-
 #EXTINF:-1,Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
 #EXTINF:-1,РыКий
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-
-#EXTINF:-1,Смайлик ТВ HD
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 
 #EXTINF:-1,Трофей HD
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
@@ -411,15 +381,6 @@ http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlis
 
 #EXTINF:-1,Odessa Fashion TV
 http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
-
-#EXTINF:-1,Nano TV HD
-http://185.46.48.16/NANO/index.m3u8
-
-#EXTINF:-1,VRT TV
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
-
-#EXTINF:-1,А1 (Одесса) [HD]
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
 
 #EXTINF:-1,НТМ HD (Мордовия)
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
@@ -446,9 +407,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 
-#EXTINF:-1,100 automoto.TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-
 #EXTINF:-1,Naroddip
 #EXTVLCOPT:http-user-agent=smartlabs
 http://hls.goodgame.ru/hls/33226.m3u8
@@ -474,6 +432,7 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
 #EXTINF:-1,Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+https://raw.githubusercontent.com/Tomediatv/mano/master/gerasnano
 
 #EXTINF:-1,НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -625,12 +584,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 ,Travel Guide TV HD
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-
-#EXTINF:-1 ,OneRUS HD
-http://rtmp.one.by:2300
-
-#EXTINF:-1 ,Power TV HD
-https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 #EXTINF:-1 ,Dancestar TV HD
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
