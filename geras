@@ -1,4 +1,5 @@
 #EXTM3U 
+
 #EXTINF:-1,LNK Lithuania
 https://live.lnk.lt/lnk_live/tiesiogiai/chunklist_w206723363_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTU4NTQ0NDQ4NiZ0b2tlbmhhc2g9ZlRXZmFzaENsMWUyUC1DdVAxeUMwbGNXTUtUd0NNZDRPRnpnR0x5eWtYMGs4N1lMejA4Mlp0STRsdl9xMWpZaVUxSTZCc3JCMHpsV1ljRGozQ1M5Ync9PQ==.m3u8
 
@@ -7,9 +8,6 @@ https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion & LifeStyle 1
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",TraceAFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 
 #EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",MUSIC Race Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
@@ -80,9 +78,6 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News",NEWS Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Brandnite
-https://fluxustv.blogspot.com@bit.ly/BrandniteTV?.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",RU TNT International
 http://ott-cdn.ucom.am/s19/04.m3u8
@@ -158,9 +153,6 @@ http://30a-tv.com/sidewalks.m3u8
 
 #EXTINF:0 tvg-id="BYUtv.us" group-title="Entertainment",TV BYU
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="https://i.postimg.cc/W1jVzN1b/images-15.png" group-title="MOVIE TV",MBC MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
@@ -282,9 +274,6 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 group-title="Музыкальные",V2BEATHD
 http://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Развлекательные",HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
@@ -399,23 +388,11 @@ http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:-1,HISTORY 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:-1,LOVE NATURE
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-
-#EXTINF:-1,Naroddip
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/33226.m3u8
-
 #EXTINF:-1,РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 
 #EXTINF:-1,Brics TV HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Ultra HD Cinema FulHD
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 
 #EXTINF:-1,Кинозал 4 (ULTO) 
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
@@ -425,10 +402,6 @@ https://hls.goodgame.ru/hls/146065.m3u8
 
 #EXTINF:-1,Классика кино HD
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-
-#EXTINF:-1,Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-https://raw.githubusercontent.com/Tomediatv/mano/master/gerasnano
 
 #EXTINF:-1,НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -501,21 +474,12 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1,NRJ Hits
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-
-#EXTINF:0,Страна FM HD
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
  
 #EXTINF:0,М2
 http://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1,MM-TV HD
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-
-#EXTINF:-1,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE KITOKO
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
 #EXTINF:-1 ,G TV HD
 #EXTGRP:УКРАИНА
