@@ -173,8 +173,7 @@ http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
 #EXTINF:-1 group-title="Новости",RT HD
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="Новости",РЖД ТВ HD
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+
 #EXTINF:-1 group-title="Кино и Сериалы",TV XXI
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Shot TV
@@ -200,8 +199,7 @@ https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",KISS TV
 http://fms-https1.mediadirect.ro/live3/kiss/chunklist_w1535526573.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
 #EXTINF:-1 group-title="Музыкальные",MTV mix
 http://online.mtvmix.ru:18092/ios/live.m3u8
 #EXTINF:-1 group-title="Музыкальные",Nago TV
@@ -236,18 +234,15 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные",М2
-http://live.m2.tv/hls3/stream.m3u8
+
 #EXTINF:-1 group-title="Развлекательные",HD Media
 http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Nick Kids
 http://54.36.109.228/20600/mono.m3u8
-#EXTINF:-1 group-title="Природа и путешествия",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
 #EXTINF:-1 group-title="Природа и путешествия",Travel Channel HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
-#EXTINF:-1 group-title="История и Наука",Brics TV
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="История и Наука",Discovery Science HD
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 
@@ -260,21 +255,14 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 group-title="Мода",World Fashion Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 
-
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
-
-#EXTINF:-1,МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 #EXTINF:-1,112 HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
 #EXTINF:-1,Bambarbia TV [HD]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-
-#EXTINF:-1,HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
 #EXTINF:-1,SONG TV FHD Russia
 https://songtvru.ru/hd/playlist.m3u8
@@ -290,9 +278,6 @@ http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 
 #EXTINF:-1,Мир HD (Premium)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
-#EXTINF:-1,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1,Министерство идей HD
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -360,9 +345,6 @@ http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
 #EXTINF:-1,Тюменское Время
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 
-#EXTINF:-1,360/СИН (Сургут)
-http://video1.in-news.ru/360/index.m3u8
-
 #EXTINF:-1,Odessa Fashion TV
 http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
 
@@ -399,9 +381,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1,LOVE NATURE
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-
-#EXTINF:-1,Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1,100 automoto.TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
@@ -495,9 +474,6 @@ https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 #EXTINF:-1,Парк Патриот HD
 http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
 
-#EXTINF:-1,CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-
 #EXTINF:-1,Калейдоскоп ТВ 
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 
@@ -519,29 +495,8 @@ http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 #EXTINF:-1,TRACE AFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
-#EXTINF:-1,TRACE AYITI
-http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-
 #EXTINF:-1,TRACE KITOKO
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE LATINA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE MZIKI
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE NAIJA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE TOCA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE TROPICAL
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-
-#EXTINF:-1,TRACE URBAN
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
 #EXTINF:-1 ,G TV HD
 #EXTGRP:УКРАИНА
@@ -567,10 +522,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 ,Travel HD BG
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-
-#EXTINF:-1 ,Discovery Science HD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 
 #EXTINF:-1 ,ULTRA REX HD
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
@@ -638,9 +589,6 @@ http://live-dumatv.cdnvideo.ru/dumatv/dumatv/playlist.m3u8
 #EXTINF:-1 ,Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
-#EXTINF:-1 ,INFO WARS TV HD
-http://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b2244608.m3u8
-
 #EXTINF:-1 ,RTVI HD
 #http://rr2.1ott.net/~109f4bfdc9d6686f40d0f1d46bd8f01b00d/124
 
@@ -660,9 +608,6 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTGRP:СПОРТ
 http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
 
-#EXTINF:-1 ,Atlanta Channel HD
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-
 #EXTINF:-1 ,Fresh TV HD
 https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 
@@ -671,9 +616,6 @@ https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 ,V2BEATHD
 http://de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 ,Диалоги о рыбалке HD
-https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 ,HDL HD
 http://89.106.234.4:80/hdl_34_35.m3u8
