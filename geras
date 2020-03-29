@@ -283,9 +283,6 @@ http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
 #EXTINF:-1,Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1,Мир HD (Premium)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
 #EXTINF:-1,Министерство идей HD
 https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
