@@ -1,5 +1,6 @@
 #EXTM3U 
 
+
 #EXTINF:-1,LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
@@ -526,9 +527,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 ,Dancestar TV HD
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-
-#EXTINF:-1 ,Djing Avicii HD
-https://djing.com/tv/s-28730-05-avicii.m3u8
 
 #EXTINF:-1 ,World Fashion Channel Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
