@@ -9,9 +9,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",MUSIC Race Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV (Latin America)
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 
