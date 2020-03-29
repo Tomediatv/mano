@@ -9,9 +9,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",MUSIC Race Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
-#EXTINF:0 tvg-id="FineLiving.ru" group-title="Entertainment",Fine Living
-http://70.32.0.9:5000/live/543/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
@@ -57,9 +54,6 @@ https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",Music BL Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
-
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Kids",KIDS Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIc Country 4U
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
@@ -108,9 +102,6 @@ https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",CMC US
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-#EXTINF:87,Dust
-https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:67,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
@@ -265,7 +256,7 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 group-title="Музыкальные",TRACE Urban
 http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",TRACE kitoko
+#EXTINF:-1 group-title="Музыкальные",TRACE Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",V2BEATHD
@@ -584,9 +575,6 @@ https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 ,Russian Music Box HD
 https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-
-#EXTINF:-1 ,V2BEATHD
-http://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 ,HDL HD
 http://89.106.234.4:80/hdl_34_35.m3u8
