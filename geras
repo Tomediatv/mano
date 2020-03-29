@@ -301,9 +301,6 @@ http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
 #EXTINF:-1,TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,TVM Channel
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-
 #EXTINF:-1,WFC TV
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
 
