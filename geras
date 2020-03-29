@@ -1,8 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1,LNK Lithuania
-https://live.lnk.lt/lnk_live/tiesiogiai/chunklist_w206723363_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTU4NTQ0NDQ4NiZ0b2tlbmhhc2g9ZlRXZmFzaENsMWUyUC1DdVAxeUMwbGNXTUtUd0NNZDRPRnpnR0x5eWtYMGs4N1lMejA4Mlp0STRsdl9xMWpZaVUxSTZCc3JCMHpsV1ljRGozQ1M5Ync9PQ==.m3u8
-
 #EXTINF:-1,LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
@@ -541,9 +538,6 @@ https://live.chdrstatic.com/cbn/primary/2.m3u8
 
 #EXTINF:-1 ,AKC TV HD (England)
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-
-#EXTINF:-1 ,Travel Guide TV HD
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
 #EXTINF:-1 ,Dancestar TV HD
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
