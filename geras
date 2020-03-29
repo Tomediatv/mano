@@ -1,6 +1,5 @@
 #EXTM3U 
 
-
 #EXTINF:-1,LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
@@ -208,9 +207,6 @@ https://djing.com/tv/s-28730-05-hedonist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",DJing Wild HD
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
-
-#EXTINF:-1 group-title="Музыкальные",KISS TV
-http://fms-https1.mediadirect.ro/live3/kiss/chunklist_w1535526573.m3u8
 
 #EXTINF:-1 group-title="Музыкальные",MTV mix
 http://online.mtvmix.ru:18092/ios/live.m3u8
@@ -612,9 +608,6 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
-
-#EXTINF:59,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 
 #EXTINF:80,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
