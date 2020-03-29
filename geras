@@ -548,10 +548,6 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTGRP:ФИЛЬМЫ
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
-#EXTINF:-1 ,Viasat Sport HD
-#EXTGRP:СПОРТ
-http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
-
 #EXTINF:-1 ,Fresh TV HD
 https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 
