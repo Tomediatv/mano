@@ -1,68 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-auksinis" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-balticum-auksinis.png",Balticum Auksinis hls
-http://fr01.spr24.net/792/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-platinum" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/12/logo-balticum-platinum.png",Balticum Platinum HD hls
-http://fr01.spr24.net/19172/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV
-http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/11/logo-btv-hd-spot.png",BTV HD hls
-http://fr01.spr24.net/19208/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://plius.tv/siauliai-splius-uab/wp-content/uploads/2018/03/info_tv_200x100.png",Info TV HD hls
-http://fr01.spr24.net/782/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="kidzone-plus" tvg-logo="https://iptvx.one/icn/kidzone-plus.png",Kidzone+ HD hls
-http://fr01.spr24.net/795/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-ryto-televizija" tvg-logo="https://jurossvente.lt/wp-content/uploads/2017/06/LR_TV_pagrindinis_grupes_logo.png",Lietuvos rytas TV HD hls
-http://fr01.spr24.net/780/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="liuks" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/f/f9/Liuks.jpg",Liuks! hls
-http://fr01.spr24.net/783/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK
-http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8fe6e8.acelive&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK HD hls
-http://fr01.spr24.net/19190/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK HD hls
-http://fr01.spr24.net/19190/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
-http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD hls
-http://fr01.spr24.net/19159/mono.m3u8?token=hiVi8EHiq86NZA
+
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-lituanica" tvg-logo="https://iptvx.one/icn/lrt-lituanica.png",LRT Lituanica hls
 http://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-kultura" tvg-logo="https://www.unet.lt/wp-content/uploads/LRT_PLIUS_Inversin%C3%84%E2%80%94-versija-150x150.png",LRT Plius HD hls
-http://fr01.spr24.net/791/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-kultura" tvg-logo="https://www.unet.lt/wp-content/uploads/LRT_PLIUS_Inversin%C3%84%E2%80%94-versija-150x150.png",LRT Plius hls
-http://fr01.spr24.net/19161/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lolo-tv-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-pingviniukas.png",Pingvinukas hls
-http://fr01.spr24.net/23715/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="pukas" tvg-logo="https://www.tv.lt/uploads/ic/400x400_out/uploads/media/2013/05/be-pavadinimo-519b0fe279e29.png",Pūkas TV hls
-http://api.new.livestream.com/accounts/2915893/events/pukastv/live.m3u8
-#EXTINF:-1 group-title="Lietuviški" tvg-id="sport1-lt" tvg-logo="https://tv.lt/uploads/ic/400x400_out/uploads/media/2015/05/sport-1-5551b799152fb.png",Sport 1 HD hls
-http://fr01.spr24.net/794/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="siauliutv" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-siauliu-televizija.png",Šiaulių TV hls
-http://fr01.spr24.net/23711/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/11/logo-tv1-hd-spot.png",TV1 HD hls
-http://fr01.spr24.net/785/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3
-http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_24e09d.acelive&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 HD hls
-http://fr01.spr24.net/786/mono.m3u8?token=hiVi8EHiq86NZA
+
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 hls
 https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1000-premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 Film HD hls
-http://fr01.spr24.net/19173/mpegts?token=BQF9PmuRpcxUqR
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1000-premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 Film HD hls
-http://fr01.spr24.net/19173/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tvplay-sports" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/07/logo-tv3-sport-hd-spot.png",TV3 Sport HD hls
-http://fr01.spr24.net/793/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tvplay-sports-plus" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/10/logo-tv3-sport-2-hd-spot.png",TV3 Sport 2 HD hls
-http://fr01.spr24.net/790/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6
-http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d8d6b1.acelive&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6 HD hls
-http://fr01.spr24.net/787/mono.m3u8?token=hiVi8EHiq86NZA
+
 #EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6 hls
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv8-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TV8_logo_for_Sweden_and_Lithuania.png/150px-TV8_logo_for_Sweden_and_Lithuania.png",TV8 HD hls
-http://fr01.spr24.net/784/mono.m3u8?token=hiVi8EHiq86NZA
-#EXTINF:-1 group-title="Lietuviški" tvg-id="tv8-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TV8_logo_for_Sweden_and_Lithuania.png/150px-TV8_logo_for_Sweden_and_Lithuania.png",TV8 HD hls
-http://fr01.spr24.net/17872/mpegts?token=BQF9PmuRpcxUqR
-
