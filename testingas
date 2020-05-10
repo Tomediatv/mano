@@ -319,9 +319,6 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,DocuBox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 
-#EXTINF:-1,Fine Living
-http://70.32.0.9:5000/live/543/playlist.m3u8
-
 #EXTINF:-1,HISTORY 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
