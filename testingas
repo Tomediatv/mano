@@ -91,9 +91,6 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:117,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:14,CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
-
 #EXTINF:44,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
 
@@ -112,14 +109,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:16,Fox PS
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:83,Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-
 #EXTINF:13,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
-
-#EXTINF:145,Plant-Based Network
-https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
 #EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -526,17 +517,11 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365e
 #EXTINF:51,Best of A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-#EXTINF:82,H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-
 #EXTINF:85,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:100,Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
-
-#EXTINF:137,Camera Smile TV
-https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 #EXTINF:217,Youtoo America HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
