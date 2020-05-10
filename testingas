@@ -331,9 +331,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1,Кинозал 4 (ULTO) 
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 
-#EXTINF:0,Sever TV
-https://hls.goodgame.ru/hls/146065.m3u8
-
 #EXTINF:-1,Классика кино HD
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
