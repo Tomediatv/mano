@@ -18,7 +18,7 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 
-#EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",MOVIES ENT CNBC
+#EXTINF:-1,CONTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News",NEWS NewsNet
@@ -94,9 +94,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd
 #EXTINF:44,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",ENT CNBC
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-
 #EXTINF:130,ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
@@ -171,9 +168,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и Сериалы",Рен ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-
-#EXTINF:-1 group-title="Sport",Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport",AUTOMOTO TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
